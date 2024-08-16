@@ -175,6 +175,53 @@ namespace Laboratorio2.Data
                 }
             }
         }
+        //devuelva los clientes cuyo código de provincia coincida
+        public IEnumerable<ClienteSql> GetClientesPorProvincia(int provinciaCodigo)
+        {
+            List<ClienteSql> lst = new List<ClienteSql>();
+            string query = "SELECT * FROM Cliente WHERE Cedula LIKE @CedulaPrefix";
+
+            using (NpgsqlConnection con = new NpgsqlConnection(connectionString))
+            {
+                using (NpgsqlCommand cmd = new NpgsqlCommand(query, con))
+                {
+                    // Usar el código de provincia para filtrar cédulas que empiezan con el código de provincia
+                    cmd.Parameters.AddWithValue("@CedulaPrefix", $"{provinciaCodigo}%");
+
+                    try
+                    {
+                        con.Open();
+                        using (NpgsqlDataReader rdr = cmd.ExecuteReader())
+                        {
+                            while (rdr.Read())
+                            {
+                                ClienteSql cliente = new ClienteSql
+                                {
+                                    Codigo = rdr["codigo"] != DBNull.Value ? Convert.ToInt32(rdr["codigo"]) : 0,
+                                    Cedula = rdr["cedula"] != DBNull.Value ? rdr["cedula"].ToString() : string.Empty,
+                                    Apellidos = rdr["apellidos"] != DBNull.Value ? rdr["apellidos"].ToString() : string.Empty,
+                                    Nombres = rdr["nombres"] != DBNull.Value ? rdr["nombres"].ToString() : string.Empty,
+                                    FechaNacimiento = rdr["fechanacimiento"] != DBNull.Value ? Convert.ToDateTime(rdr["fechanacimiento"]) : default(DateTime),
+                                    Mail = rdr["mail"] != DBNull.Value ? rdr["mail"].ToString() : string.Empty,
+                                    Telefono = rdr["telefono"] != DBNull.Value ? rdr["telefono"].ToString() : string.Empty,
+                                    Direccion = rdr["direccion"] != DBNull.Value ? rdr["direccion"].ToString() : string.Empty,
+                                    Estado = rdr["estado"] != DBNull.Value ? Convert.ToBoolean(rdr["estado"]) : false,
+                                    Saldo = rdr["saldo"] != DBNull.Value ? Convert.ToDecimal(rdr["saldo"]) : 0m
+                                };
+
+                                lst.Add(cliente);
+                            }
+                        }
+                    }
+                    catch (Exception ex)
+                    {
+                        // Maneja el error aquí
+                        Console.WriteLine("Error: " + ex.Message);
+                    }
+                }
+            }
+            return lst;
+        }
 
 
     }

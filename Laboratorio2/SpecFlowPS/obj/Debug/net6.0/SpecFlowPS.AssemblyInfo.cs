@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpecFlowPS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11fa34ec85cfad4a4f2e59c8c68d577cf09c57fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpecFlowPS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpecFlowPS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

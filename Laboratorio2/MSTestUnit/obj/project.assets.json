@@ -1113,11 +1113,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\MSTestUnit\\MSTestUnit.csproj",
+      "projectUniqueName": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\MSTestUnit\\MSTestUnit.csproj",
       "projectName": "MSTestUnit",
-      "projectPath": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\MSTestUnit\\MSTestUnit.csproj",
+      "projectPath": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\MSTestUnit\\MSTestUnit.csproj",
       "packagesPath": "C:\\Users\\isaiasb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\MSTestUnit\\obj\\",
+      "outputPath": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\MSTestUnit\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\isaiasb\\AppData\\Roaming\\NuGet\\NuGet.Config",

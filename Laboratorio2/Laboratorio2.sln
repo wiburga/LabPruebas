@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Laboratorio2", "Laboratorio
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MSTestUnit", "MSTestUnit\MSTestUnit.csproj", "{8E76394A-6511-4DBB-AB49-CD8BEAC6B0E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlowPS", "SpecFlowPS\SpecFlowPS.csproj", "{74876CDC-EF01-4A85-8AFE-0BBFC0CDBE84}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpecFlowPS", "SpecFlowPS\SpecFlowPS.csproj", "{74876CDC-EF01-4A85-8AFE-0BBFC0CDBE84}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

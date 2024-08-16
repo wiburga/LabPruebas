@@ -1,0 +1,64 @@
+﻿@using Laboratorio2.Data
+@model IEnumerable<ClienteSql>
+
+<h2>@ViewBag.Title</h2>
+
+<form id="provinciaForm" method="post">
+    <div class="form-group">
+        <label for="provinciaList">Seleccione una provincia:</label>
+        <select id="provinciaList" name="provinciaCodigo" class="form-control">
+            <option value="">Seleccione...</option>
+            @foreach (var provincia in ViewBag.Provincias as IEnumerable<ProvinciaSql>)
+            {
+                <option value="@provincia.Codigo">@provincia.Nombre</option>
+            }
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary">Buscar</button>
+</form>
+
+<div id="cedulasContainer">
+    @if (ViewBag.Cedulas != null)
+    {
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Cédula</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if ((ViewBag.Cedulas as IEnumerable<ClienteSql>).Any())
+                {
+                    foreach (var cliente in ViewBag.Cedulas as IEnumerable<ClienteSql>)
+                    {
+                        <tr>
+                            <td>@cliente.Cedula</td>
+                        </tr>
+                    }
+                }
+                else
+                {
+                    <tr>
+                        <td>No se encontraron cédulas.</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p>Seleccione una provincia para ver las cédulas.</p>
+    }
+</div>
+
+@section Scripts {
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#provinciaList').change(function () {
+                var provinciaCodigo = $(this).val();
+                $('#provinciaForm').submit();
+            });
+        });
+    </script>
+}

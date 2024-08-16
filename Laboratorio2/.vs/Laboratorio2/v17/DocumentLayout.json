@@ -1,125 +1,141 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\",
+  "WorkspaceRootPath": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{74876CDC-EF01-4A85-8AFE-0BBFC0CDBE84}|SpecFlowPS\\SpecFlowPS.csproj|c:\\users\\isaiasb\\downloads\\labtestsoftware-main\\labtestsoftware-main\\laboratorio2\\specflowps\\stepdefinitions\\calculatorstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74876CDC-EF01-4A85-8AFE-0BBFC0CDBE84}|SpecFlowPS\\SpecFlowPS.csproj|solutionrelative:specflowps\\stepdefinitions\\calculatorstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|c:\\users\\isaiasb\\desktop\\espe-pruebas\\labpruebas\\laboratorio2\\laboratorio2_achig\\data\\provinciasqldataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|solutionrelative:laboratorio2_achig\\data\\provinciasqldataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74876CDC-EF01-4A85-8AFE-0BBFC0CDBE84}|SpecFlowPS\\SpecFlowPS.csproj|c:\\users\\isaiasb\\downloads\\labtestsoftware-main\\labtestsoftware-main\\laboratorio2\\specflowps\\features\\calculator.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{74876CDC-EF01-4A85-8AFE-0BBFC0CDBE84}|SpecFlowPS\\SpecFlowPS.csproj|solutionrelative:specflowps\\features\\calculator.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|c:\\users\\isaiasb\\desktop\\espe-pruebas\\labpruebas\\laboratorio2\\laboratorio2_achig\\views\\provincia\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|solutionrelative:laboratorio2_achig\\views\\provincia\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|c:\\users\\isaiasb\\downloads\\labtestsoftware-main\\labtestsoftware-main\\laboratorio2\\laboratorio2_achig\\laboratorio2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|solutionrelative:laboratorio2_achig\\laboratorio2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|c:\\users\\isaiasb\\desktop\\espe-pruebas\\labpruebas\\laboratorio2\\laboratorio2_achig\\data\\clientesqldataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|solutionrelative:laboratorio2_achig\\data\\clientesqldataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|c:\\users\\isaiasb\\downloads\\labtestsoftware-main\\labtestsoftware-main\\laboratorio2\\laboratorio2_achig\\laboratorio2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|solutionrelative:laboratorio2_achig\\laboratorio2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|c:\\users\\isaiasb\\desktop\\espe-pruebas\\labpruebas\\laboratorio2\\laboratorio2_achig\\controllers\\provinciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|solutionrelative:laboratorio2_achig\\controllers\\provinciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|c:\\users\\isaiasb\\downloads\\labtestsoftware-main\\labtestsoftware-main\\laboratorio2\\laboratorio2_achig\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|c:\\users\\isaiasb\\desktop\\espe-pruebas\\labpruebas\\laboratorio2\\laboratorio2_achig\\models\\clientesql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|solutionrelative:laboratorio2_achig\\models\\clientesql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|c:\\users\\isaiasb\\desktop\\espe-pruebas\\labpruebas\\laboratorio2\\laboratorio2_achig\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|solutionrelative:laboratorio2_achig\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|c:\\users\\isaiasb\\desktop\\espe-pruebas\\labpruebas\\laboratorio2\\laboratorio2_achig\\models\\province.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|solutionrelative:laboratorio2_achig\\models\\province.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|c:\\users\\isaiasb\\desktop\\espe-pruebas\\labpruebas\\laboratorio2\\laboratorio2_achig\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|solutionrelative:laboratorio2_achig\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|c:\\users\\isaiasb\\desktop\\espe-pruebas\\labpruebas\\laboratorio2\\laboratorio2_achig\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|solutionrelative:laboratorio2_achig\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|c:\\users\\isaiasb\\desktop\\espe-pruebas\\labpruebas\\laboratorio2\\laboratorio2_achig\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|solutionrelative:laboratorio2_achig\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|c:\\users\\isaiasb\\desktop\\espe-pruebas\\labpruebas\\laboratorio2\\laboratorio2_achig\\models\\calculadoraps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|solutionrelative:laboratorio2_achig\\models\\calculadoraps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|c:\\users\\isaiasb\\desktop\\espe-pruebas\\labpruebas\\laboratorio2\\laboratorio2_achig\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|solutionrelative:laboratorio2_achig\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|c:\\users\\isaiasb\\downloads\\labtestsoftware-main\\labtestsoftware-main\\laboratorio2\\laboratorio2_achig\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{74876CDC-EF01-4A85-8AFE-0BBFC0CDBE84}|SpecFlowPS\\SpecFlowPS.csproj|c:\\users\\isaiasb\\desktop\\espe-pruebas\\labpruebas\\laboratorio2\\specflowps\\stepdefinitions\\calculatorstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74876CDC-EF01-4A85-8AFE-0BBFC0CDBE84}|SpecFlowPS\\SpecFlowPS.csproj|solutionrelative:specflowps\\stepdefinitions\\calculatorstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74876CDC-EF01-4A85-8AFE-0BBFC0CDBE84}|SpecFlowPS\\SpecFlowPS.csproj|c:\\users\\isaiasb\\desktop\\espe-pruebas\\labpruebas\\laboratorio2\\specflowps\\features\\calculator.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{74876CDC-EF01-4A85-8AFE-0BBFC0CDBE84}|SpecFlowPS\\SpecFlowPS.csproj|solutionrelative:specflowps\\features\\calculator.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|c:\\users\\isaiasb\\desktop\\espe-pruebas\\labpruebas\\laboratorio2\\laboratorio2_achig\\laboratorio2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|solutionrelative:laboratorio2_achig\\laboratorio2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|c:\\users\\isaiasb\\desktop\\espe-pruebas\\labpruebas\\laboratorio2\\laboratorio2_achig\\laboratorio2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|solutionrelative:laboratorio2_achig\\laboratorio2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|c:\\users\\isaiasb\\desktop\\espe-pruebas\\labpruebas\\laboratorio2\\laboratorio2_achig\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|solutionrelative:laboratorio2_achig\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74876CDC-EF01-4A85-8AFE-0BBFC0CDBE84}|SpecFlowPS\\SpecFlowPS.csproj|c:\\users\\isaiasb\\downloads\\labtestsoftware-main\\labtestsoftware-main\\laboratorio2\\specflowps\\specflowps.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{74876CDC-EF01-4A85-8AFE-0BBFC0CDBE84}|SpecFlowPS\\SpecFlowPS.csproj|c:\\users\\isaiasb\\desktop\\espe-pruebas\\labpruebas\\laboratorio2\\specflowps\\specflowps.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{74876CDC-EF01-4A85-8AFE-0BBFC0CDBE84}|SpecFlowPS\\SpecFlowPS.csproj|solutionrelative:specflowps\\specflowps.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|c:\\users\\isaiasb\\downloads\\labtestsoftware-main\\labtestsoftware-main\\laboratorio2\\laboratorio2_achig\\data\\clientesqldataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|solutionrelative:laboratorio2_achig\\data\\clientesqldataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|c:\\users\\isaiasb\\downloads\\labtestsoftware-main\\labtestsoftware-main\\laboratorio2\\laboratorio2_achig\\models\\calculadoraps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|solutionrelative:laboratorio2_achig\\models\\calculadoraps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E76394A-6511-4DBB-AB49-CD8BEAC6B0E3}|MSTestUnit\\MSTestUnit.csproj|c:\\users\\isaiasb\\downloads\\labtestsoftware-main\\labtestsoftware-main\\laboratorio2\\mstestunit\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8E76394A-6511-4DBB-AB49-CD8BEAC6B0E3}|MSTestUnit\\MSTestUnit.csproj|c:\\users\\isaiasb\\desktop\\espe-pruebas\\labpruebas\\laboratorio2\\mstestunit\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E76394A-6511-4DBB-AB49-CD8BEAC6B0E3}|MSTestUnit\\MSTestUnit.csproj|solutionrelative:mstestunit\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|c:\\users\\isaiasb\\downloads\\labtestsoftware-main\\labtestsoftware-main\\laboratorio2\\laboratorio2_achig\\models\\clientesql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|solutionrelative:laboratorio2_achig\\models\\clientesql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|c:\\users\\isaiasb\\downloads\\labtestsoftware-main\\labtestsoftware-main\\laboratorio2\\laboratorio2_achig\\views\\cliente\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|c:\\users\\isaiasb\\desktop\\espe-pruebas\\labpruebas\\laboratorio2\\laboratorio2_achig\\views\\cliente\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|solutionrelative:laboratorio2_achig\\views\\cliente\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|c:\\users\\isaiasb\\downloads\\labtestsoftware-main\\labtestsoftware-main\\laboratorio2\\laboratorio2_achig\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|solutionrelative:laboratorio2_achig\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|c:\\users\\isaiasb\\downloads\\labtestsoftware-main\\labtestsoftware-main\\laboratorio2\\laboratorio2_achig\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|c:\\users\\isaiasb\\desktop\\espe-pruebas\\labpruebas\\laboratorio2\\laboratorio2_achig\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|solutionrelative:laboratorio2_achig\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E76394A-6511-4DBB-AB49-CD8BEAC6B0E3}|MSTestUnit\\MSTestUnit.csproj|c:\\users\\isaiasb\\downloads\\labtestsoftware-main\\labtestsoftware-main\\laboratorio2\\mstestunit\\mstestunit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{8E76394A-6511-4DBB-AB49-CD8BEAC6B0E3}|MSTestUnit\\MSTestUnit.csproj|c:\\users\\isaiasb\\desktop\\espe-pruebas\\labpruebas\\laboratorio2\\mstestunit\\mstestunit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{8E76394A-6511-4DBB-AB49-CD8BEAC6B0E3}|MSTestUnit\\MSTestUnit.csproj|solutionrelative:mstestunit\\mstestunit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|c:\\users\\isaiasb\\downloads\\labtestsoftware-main\\labtestsoftware-main\\laboratorio2\\laboratorio2_achig\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|solutionrelative:laboratorio2_achig\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|c:\\users\\isaiasb\\downloads\\labtestsoftware-main\\labtestsoftware-main\\laboratorio2\\laboratorio2_achig\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|c:\\users\\isaiasb\\desktop\\espe-pruebas\\labpruebas\\laboratorio2\\laboratorio2_achig\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|solutionrelative:laboratorio2_achig\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|c:\\users\\isaiasb\\downloads\\labtestsoftware-main\\labtestsoftware-main\\laboratorio2\\laboratorio2_achig\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|c:\\users\\isaiasb\\desktop\\espe-pruebas\\labpruebas\\laboratorio2\\laboratorio2_achig\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|solutionrelative:laboratorio2_achig\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|c:\\users\\isaiasb\\downloads\\labtestsoftware-main\\labtestsoftware-main\\laboratorio2\\laboratorio2_achig\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|c:\\users\\isaiasb\\desktop\\espe-pruebas\\labpruebas\\laboratorio2\\laboratorio2_achig\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|solutionrelative:laboratorio2_achig\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|c:\\users\\isaiasb\\downloads\\labtestsoftware-main\\labtestsoftware-main\\laboratorio2\\laboratorio2_achig\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|c:\\users\\isaiasb\\desktop\\espe-pruebas\\labpruebas\\laboratorio2\\laboratorio2_achig\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|solutionrelative:laboratorio2_achig\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|c:\\users\\isaiasb\\downloads\\labtestsoftware-main\\labtestsoftware-main\\laboratorio2\\laboratorio2_achig\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|c:\\users\\isaiasb\\desktop\\espe-pruebas\\labpruebas\\laboratorio2\\laboratorio2_achig\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|solutionrelative:laboratorio2_achig\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|c:\\users\\isaiasb\\downloads\\labtestsoftware-main\\labtestsoftware-main\\laboratorio2\\laboratorio2_achig\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|solutionrelative:laboratorio2_achig\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|c:\\users\\isaiasb\\downloads\\labtestsoftware-main\\labtestsoftware-main\\laboratorio2\\laboratorio2_achig\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|c:\\users\\isaiasb\\desktop\\espe-pruebas\\labpruebas\\laboratorio2\\laboratorio2_achig\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|solutionrelative:laboratorio2_achig\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|c:\\users\\isaiasb\\downloads\\labtestsoftware-main\\labtestsoftware-main\\laboratorio2\\laboratorio2_achig\\views\\cliente\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|c:\\users\\isaiasb\\desktop\\espe-pruebas\\labpruebas\\laboratorio2\\laboratorio2_achig\\views\\cliente\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|solutionrelative:laboratorio2_achig\\views\\cliente\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|c:\\users\\isaiasb\\downloads\\labtestsoftware-main\\labtestsoftware-main\\laboratorio2\\laboratorio2_achig\\views\\cliente\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|c:\\users\\isaiasb\\desktop\\espe-pruebas\\labpruebas\\laboratorio2\\laboratorio2_achig\\views\\cliente\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|solutionrelative:laboratorio2_achig\\views\\cliente\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|c:\\users\\isaiasb\\downloads\\labtestsoftware-main\\labtestsoftware-main\\laboratorio2\\laboratorio2_achig\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|c:\\users\\isaiasb\\desktop\\espe-pruebas\\labpruebas\\laboratorio2\\laboratorio2_achig\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|solutionrelative:laboratorio2_achig\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|c:\\users\\isaiasb\\downloads\\labtestsoftware-main\\labtestsoftware-main\\laboratorio2\\laboratorio2_achig\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|c:\\users\\isaiasb\\desktop\\espe-pruebas\\labpruebas\\laboratorio2\\laboratorio2_achig\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|solutionrelative:laboratorio2_achig\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|c:\\users\\isaiasb\\downloads\\labtestsoftware-main\\labtestsoftware-main\\laboratorio2\\laboratorio2_achig\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|c:\\users\\isaiasb\\desktop\\espe-pruebas\\labpruebas\\laboratorio2\\laboratorio2_achig\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|solutionrelative:laboratorio2_achig\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|c:\\users\\isaiasb\\downloads\\labtestsoftware-main\\labtestsoftware-main\\laboratorio2\\laboratorio2_achig\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5EBA2810-C7A8-4C6D-A69A-09D7DBC7172D}|Laboratorio2_Achig\\Laboratorio2.csproj|solutionrelative:laboratorio2_achig\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -129,8 +145,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 10,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -152,305 +172,120 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Laboratorio2",
-              "DocumentMoniker": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\Laboratorio2_Achig\\Laboratorio2.csproj",
-              "RelativeDocumentMoniker": "Laboratorio2_Achig\\Laboratorio2.csproj",
-              "ToolTip": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\Laboratorio2_Achig\\Laboratorio2.csproj",
-              "RelativeToolTip": "Laboratorio2_Achig\\Laboratorio2.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-15T17:14:56.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CalculatorStepDefinitions.cs",
-              "DocumentMoniker": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\SpecFlowPS\\StepDefinitions\\CalculatorStepDefinitions.cs",
-              "RelativeDocumentMoniker": "SpecFlowPS\\StepDefinitions\\CalculatorStepDefinitions.cs",
-              "ToolTip": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\SpecFlowPS\\StepDefinitions\\CalculatorStepDefinitions.cs",
-              "RelativeToolTip": "SpecFlowPS\\StepDefinitions\\CalculatorStepDefinitions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T17:02:59.81Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Calculator.feature",
-              "DocumentMoniker": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\SpecFlowPS\\Features\\Calculator.feature",
-              "RelativeDocumentMoniker": "SpecFlowPS\\Features\\Calculator.feature",
-              "ToolTip": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\SpecFlowPS\\Features\\Calculator.feature",
-              "RelativeToolTip": "SpecFlowPS\\Features\\Calculator.feature",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJXSURBVDhPdVNfSFNhFP/duznd5tRy5N2o1BwoCVJZD0FgulCIXiJqIyiCKIKeequnKGgQ\u002BBSBT770oNtDgv15CKKCGkRgD/WQZCqBcnfnarmcbtO72znfvddNqx/8zs537nd\u002B3znfdybhXxhXfJCwn7x24gb589AxjfOpvPhuwzCMrQIGMaFcInuDyAJOIqNE/EyMIZqaEBELFYG4Ukd2mHidl7WyC8VyCbIkC39NL3CYcROSNIyIqvNCFiETV4nX2Olu7MS78CS6Gzpxse0s3gxM0EmbZ92m0k9YviUQV5rI3iU6drqakFtfQat3D476D\u002BNkIIzVjTXqjvsTcBPv4WlQKNo9DhEbW7278br/MV5qb9H36jR\u002Bln4hmfmAH8WsuauCQ8iX99HvrN3CATaLqypG58bglBzQCkuCX3IzSBczYlMV\u002BHSRYwuISnSjjO/5BZFU0IviAyNU34ZYzy0MKsetiICXjS0wxybka8fD3hgGWo7BX9uMZtcOBOp2wUEVDSn9GOm9LzZbWGBjXm1C6aA7\u002Bko3LXfQacvrOSTDT/BgZhRdDSF0\u002BUI4k7wMj8MDtaBxBr2p0YKoljMriKRmyT7im/62Mg9fTT09tYyP2U94n5lC0K2I9qxkxhgns1M9SEGyz4gHecnPmS0ti0HyON34TU9rIQ3J6ENEm\u002BZFRYAxrvgpMkLeKSJP5nbwfyFC4/zcXG4XYCQCNdTJEeqRp/KCGRRIEa9QMle5ib8FbCQCgzSyL8hbJE7S1juIqmnxrQr/F4gH9lIVPeRNQdZVnFsy41sA/AGfbrS3fsL98AAAAABJRU5ErkJggg==",
-              "WhenOpened": "2024-08-15T16:55:27.144Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Laboratorio2.csproj",
-              "DocumentMoniker": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\Laboratorio2_Achig\\Laboratorio2.csproj",
-              "RelativeDocumentMoniker": "Laboratorio2_Achig\\Laboratorio2.csproj",
-              "ToolTip": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\Laboratorio2_Achig\\Laboratorio2.csproj",
-              "RelativeToolTip": "Laboratorio2_Achig\\Laboratorio2.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-15T12:32:33.98Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SpecFlowPS",
-              "DocumentMoniker": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\SpecFlowPS\\SpecFlowPS.csproj",
-              "RelativeDocumentMoniker": "SpecFlowPS\\SpecFlowPS.csproj",
-              "ToolTip": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\SpecFlowPS\\SpecFlowPS.csproj",
-              "RelativeToolTip": "SpecFlowPS\\SpecFlowPS.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-15T17:13:11.357Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Microsoft.Common.CurrentVersion.targets",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ViewState": "AQIAAEYHAAAAAAAAAAAiwFYHAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-08-15T17:13:09.308Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Views\\Provincia\\Index.cshtml",
+              "RelativeDocumentMoniker": "Laboratorio2_Achig\\Views\\Provincia\\Index.cshtml",
+              "ToolTip": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Views\\Provincia\\Index.cshtml",
+              "RelativeToolTip": "Laboratorio2_Achig\\Views\\Provincia\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T02:44:37.571Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\Laboratorio2_Achig\\appsettings.json",
-              "RelativeDocumentMoniker": "Laboratorio2_Achig\\appsettings.json",
-              "ToolTip": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\Laboratorio2_Achig\\appsettings.json",
-              "RelativeToolTip": "Laboratorio2_Achig\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-15T12:35:16.619Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\Laboratorio2_Achig\\Program.cs",
-              "RelativeDocumentMoniker": "Laboratorio2_Achig\\Program.cs",
-              "ToolTip": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\Laboratorio2_Achig\\Program.cs",
-              "RelativeToolTip": "Laboratorio2_Achig\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T12:41:16.236Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ClienteSqlDataAccessLayer.cs",
-              "DocumentMoniker": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\Laboratorio2_Achig\\Data\\ClienteSqlDataAccessLayer.cs",
-              "RelativeDocumentMoniker": "Laboratorio2_Achig\\Data\\ClienteSqlDataAccessLayer.cs",
-              "ToolTip": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\Laboratorio2_Achig\\Data\\ClienteSqlDataAccessLayer.cs",
-              "RelativeToolTip": "Laboratorio2_Achig\\Data\\ClienteSqlDataAccessLayer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T03:11:59.432Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CalculadoraPs.cs",
-              "DocumentMoniker": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\Laboratorio2_Achig\\Models\\CalculadoraPs.cs",
-              "RelativeDocumentMoniker": "Laboratorio2_Achig\\Models\\CalculadoraPs.cs",
-              "ToolTip": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\Laboratorio2_Achig\\Models\\CalculadoraPs.cs",
-              "RelativeToolTip": "Laboratorio2_Achig\\Models\\CalculadoraPs.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T17:05:05.786Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\MSTestUnit\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "MSTestUnit\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\MSTestUnit\\UnitTest1.cs",
-              "RelativeToolTip": "MSTestUnit\\UnitTest1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF8AAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T12:47:20.454Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "_Layout.cshtml.css",
-              "DocumentMoniker": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\Laboratorio2_Achig\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeDocumentMoniker": "Laboratorio2_Achig\\Views\\Shared\\_Layout.cshtml.css",
-              "ToolTip": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\Laboratorio2_Achig\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeToolTip": "Laboratorio2_Achig\\Views\\Shared\\_Layout.cshtml.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-08-15T12:50:29.465Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ClienteSql.cs",
-              "DocumentMoniker": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\Laboratorio2_Achig\\Models\\ClienteSql.cs",
-              "RelativeDocumentMoniker": "Laboratorio2_Achig\\Models\\ClienteSql.cs",
-              "ToolTip": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\Laboratorio2_Achig\\Models\\ClienteSql.cs",
-              "RelativeToolTip": "Laboratorio2_Achig\\Models\\ClienteSql.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T12:40:16.218Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\Laboratorio2_Achig\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Laboratorio2_Achig\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\Laboratorio2_Achig\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Laboratorio2_Achig\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA1AAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-15T12:47:08.821Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\Laboratorio2_Achig\\Views\\Cliente\\Index.cshtml",
-              "RelativeDocumentMoniker": "Laboratorio2_Achig\\Views\\Cliente\\Index.cshtml",
-              "ToolTip": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\Laboratorio2_Achig\\Views\\Cliente\\Index.cshtml",
-              "RelativeToolTip": "Laboratorio2_Achig\\Views\\Cliente\\Index.cshtml",
-              "ViewState": "AQIAAC0AAAAAAAAAAIBJwEMAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-15T04:41:05.496Z",
+              "DocumentIndex": 3,
+              "Title": "ProvinciaController.cs",
+              "DocumentMoniker": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Controllers\\ProvinciaController.cs",
+              "RelativeDocumentMoniker": "Laboratorio2_Achig\\Controllers\\ProvinciaController.cs",
+              "ToolTip": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Controllers\\ProvinciaController.cs",
+              "RelativeToolTip": "Laboratorio2_Achig\\Controllers\\ProvinciaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T02:43:06.104Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 2,
+              "Title": "ClienteSqlDataAccessLayer.cs",
+              "DocumentMoniker": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Data\\ClienteSqlDataAccessLayer.cs",
+              "RelativeDocumentMoniker": "Laboratorio2_Achig\\Data\\ClienteSqlDataAccessLayer.cs",
+              "ToolTip": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Data\\ClienteSqlDataAccessLayer.cs",
+              "RelativeToolTip": "Laboratorio2_Achig\\Data\\ClienteSqlDataAccessLayer.cs",
+              "ViewState": "AQIAAKkAAAAAAAAAAAAcwN8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T03:11:59.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProvinciaSqlDataAccessLayer.cs",
+              "DocumentMoniker": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Data\\ProvinciaSqlDataAccessLayer.cs",
+              "RelativeDocumentMoniker": "Laboratorio2_Achig\\Data\\ProvinciaSqlDataAccessLayer.cs",
+              "ToolTip": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Data\\ProvinciaSqlDataAccessLayer.cs",
+              "RelativeToolTip": "Laboratorio2_Achig\\Data\\ProvinciaSqlDataAccessLayer.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwDQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T02:42:07.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClienteSql.cs",
+              "DocumentMoniker": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Models\\ClienteSql.cs",
+              "RelativeDocumentMoniker": "Laboratorio2_Achig\\Models\\ClienteSql.cs",
+              "ToolTip": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Models\\ClienteSql.cs",
+              "RelativeToolTip": "Laboratorio2_Achig\\Models\\ClienteSql.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T12:40:16.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Province.cs",
+              "DocumentMoniker": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Models\\Province.cs",
+              "RelativeDocumentMoniker": "Laboratorio2_Achig\\Models\\Province.cs",
+              "ToolTip": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Models\\Province.cs",
+              "RelativeToolTip": "Laboratorio2_Achig\\Models\\Province.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T02:35:47.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ClienteController.cs",
-              "DocumentMoniker": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\Laboratorio2_Achig\\Controllers\\ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Controllers\\ClienteController.cs",
               "RelativeDocumentMoniker": "Laboratorio2_Achig\\Controllers\\ClienteController.cs",
-              "ToolTip": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\Laboratorio2_Achig\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Controllers\\ClienteController.cs",
               "RelativeToolTip": "Laboratorio2_Achig\\Controllers\\ClienteController.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwAgAAAAjAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-15T12:35:29.777Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\Laboratorio2_Achig\\Views\\Cliente\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Laboratorio2_Achig\\Views\\Cliente\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\Laboratorio2_Achig\\Views\\Cliente\\Edit.cshtml",
-              "RelativeToolTip": "Laboratorio2_Achig\\Views\\Cliente\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-15T12:31:57.541Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\Laboratorio2_Achig\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Laboratorio2_Achig\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\Laboratorio2_Achig\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Laboratorio2_Achig\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-15T12:33:32.418Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\Laboratorio2_Achig\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Laboratorio2_Achig\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\Laboratorio2_Achig\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Laboratorio2_Achig\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-15T12:32:11.867Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "MSTestUnit.csproj",
-              "DocumentMoniker": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\MSTestUnit\\MSTestUnit.csproj",
-              "RelativeDocumentMoniker": "MSTestUnit\\MSTestUnit.csproj",
-              "ToolTip": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\MSTestUnit\\MSTestUnit.csproj",
-              "RelativeToolTip": "MSTestUnit\\MSTestUnit.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-15T12:55:31.397Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\Laboratorio2_Achig\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Laboratorio2_Achig\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\Laboratorio2_Achig\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Laboratorio2_Achig\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-15T12:50:43.153Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\Laboratorio2_Achig\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "Laboratorio2_Achig\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\Laboratorio2_Achig\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "Laboratorio2_Achig\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-15T12:50:47.085Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 8,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\Laboratorio2_Achig\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Laboratorio2_Achig\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\Laboratorio2_Achig\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Laboratorio2_Achig\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -459,11 +294,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 9,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\Laboratorio2_Achig\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Laboratorio2_Achig\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\Laboratorio2_Achig\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "Laboratorio2_Achig\\Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -472,81 +307,293 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\Laboratorio2_Achig\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "Laboratorio2_Achig\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\Laboratorio2_Achig\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "Laboratorio2_Achig\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-15T12:33:38.096Z",
+              "DocumentIndex": 10,
+              "Title": "CalculadoraPs.cs",
+              "DocumentMoniker": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Models\\CalculadoraPs.cs",
+              "RelativeDocumentMoniker": "Laboratorio2_Achig\\Models\\CalculadoraPs.cs",
+              "ToolTip": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Models\\CalculadoraPs.cs",
+              "RelativeToolTip": "Laboratorio2_Achig\\Models\\CalculadoraPs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:05:05.786Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio2_Achig\\Program.cs",
+              "ToolTip": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Program.cs",
+              "RelativeToolTip": "Laboratorio2_Achig\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T12:41:16.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Calculator.feature",
+              "DocumentMoniker": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\SpecFlowPS\\Features\\Calculator.feature",
+              "RelativeDocumentMoniker": "SpecFlowPS\\Features\\Calculator.feature",
+              "ToolTip": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\SpecFlowPS\\Features\\Calculator.feature",
+              "RelativeToolTip": "SpecFlowPS\\Features\\Calculator.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-15T16:55:27.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CalculatorStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\SpecFlowPS\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "RelativeDocumentMoniker": "SpecFlowPS\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\SpecFlowPS\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "RelativeToolTip": "SpecFlowPS\\StepDefinitions\\CalculatorStepDefinitions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:02:59.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Laboratorio2.csproj",
+              "DocumentMoniker": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Laboratorio2.csproj",
+              "RelativeDocumentMoniker": "Laboratorio2_Achig\\Laboratorio2.csproj",
+              "ToolTip": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Laboratorio2.csproj",
+              "RelativeToolTip": "Laboratorio2_Achig\\Laboratorio2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-15T12:32:33.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SpecFlowPS.csproj",
+              "DocumentMoniker": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\SpecFlowPS\\SpecFlowPS.csproj",
+              "RelativeDocumentMoniker": "SpecFlowPS\\SpecFlowPS.csproj",
+              "ToolTip": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\SpecFlowPS\\SpecFlowPS.csproj",
+              "RelativeToolTip": "SpecFlowPS\\SpecFlowPS.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-15T17:13:11.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Laboratorio2",
+              "DocumentMoniker": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Laboratorio2.csproj",
+              "RelativeDocumentMoniker": "Laboratorio2_Achig\\Laboratorio2.csproj",
+              "ToolTip": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Laboratorio2.csproj",
+              "RelativeToolTip": "Laboratorio2_Achig\\Laboratorio2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-15T17:14:56.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAEYHAAAAAAAAAAAiwFYHAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-08-15T17:13:09.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\appsettings.json",
+              "RelativeDocumentMoniker": "Laboratorio2_Achig\\appsettings.json",
+              "ToolTip": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\appsettings.json",
+              "RelativeToolTip": "Laboratorio2_Achig\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-15T12:35:16.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\MSTestUnit\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "MSTestUnit\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\MSTestUnit\\UnitTest1.cs",
+              "RelativeToolTip": "MSTestUnit\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T12:47:20.454Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\Laboratorio2_Achig\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "Laboratorio2_Achig\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\Laboratorio2_Achig\\appsettings.Development.json",
-              "RelativeToolTip": "Laboratorio2_Achig\\appsettings.Development.json",
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Laboratorio2_Achig\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Laboratorio2_Achig\\Views\\Shared\\_Layout.cshtml.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-15T12:41:28.783Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-15T12:50:29.465Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\Laboratorio2_Achig\\Views\\Cliente\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Laboratorio2_Achig\\Views\\Cliente\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\Laboratorio2_Achig\\Views\\Cliente\\Delete.cshtml",
-              "RelativeToolTip": "Laboratorio2_Achig\\Views\\Cliente\\Delete.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Views\\Cliente\\Index.cshtml",
+              "RelativeDocumentMoniker": "Laboratorio2_Achig\\Views\\Cliente\\Index.cshtml",
+              "ToolTip": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Views\\Cliente\\Index.cshtml",
+              "RelativeToolTip": "Laboratorio2_Achig\\Views\\Cliente\\Index.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAIBJwEMAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-15T12:34:57.148Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-15T04:41:05.496Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\Laboratorio2_Achig\\Views\\Cliente\\Create.cshtml",
-              "RelativeDocumentMoniker": "Laboratorio2_Achig\\Views\\Cliente\\Create.cshtml",
-              "ToolTip": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\Laboratorio2_Achig\\Views\\Cliente\\Create.cshtml",
-              "RelativeToolTip": "Laboratorio2_Achig\\Views\\Cliente\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "DocumentIndex": 20,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Views\\Cliente\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Laboratorio2_Achig\\Views\\Cliente\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Views\\Cliente\\Edit.cshtml",
+              "RelativeToolTip": "Laboratorio2_Achig\\Views\\Cliente\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-15T12:34:53.953Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\Laboratorio2_Achig\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Laboratorio2_Achig\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\Laboratorio2_Achig\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Laboratorio2_Achig\\Models\\ErrorViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T12:40:23.291Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-15T12:31:57.541Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Laboratorio2_Achig\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Laboratorio2_Achig\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T12:33:32.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Laboratorio2_Achig\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Laboratorio2_Achig\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T12:32:11.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MSTestUnit.csproj",
+              "DocumentMoniker": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\MSTestUnit\\MSTestUnit.csproj",
+              "RelativeDocumentMoniker": "MSTestUnit\\MSTestUnit.csproj",
+              "ToolTip": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\MSTestUnit\\MSTestUnit.csproj",
+              "RelativeToolTip": "MSTestUnit\\MSTestUnit.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-15T12:55:31.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Laboratorio2_Achig\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Laboratorio2_Achig\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T12:50:43.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Laboratorio2_Achig\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Laboratorio2_Achig\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T12:50:47.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Laboratorio2_Achig\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Laboratorio2_Achig\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T12:33:38.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Laboratorio2_Achig\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\appsettings.Development.json",
+              "RelativeToolTip": "Laboratorio2_Achig\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-15T12:41:28.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Views\\Cliente\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Laboratorio2_Achig\\Views\\Cliente\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Views\\Cliente\\Delete.cshtml",
+              "RelativeToolTip": "Laboratorio2_Achig\\Views\\Cliente\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T12:34:57.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Views\\Cliente\\Create.cshtml",
+              "RelativeDocumentMoniker": "Laboratorio2_Achig\\Views\\Cliente\\Create.cshtml",
+              "ToolTip": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Views\\Cliente\\Create.cshtml",
+              "RelativeToolTip": "Laboratorio2_Achig\\Views\\Cliente\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T12:34:53.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Laboratorio2_Achig\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Laboratorio2_Achig\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T12:40:23.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\Laboratorio2_Achig\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Laboratorio2_Achig\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\Laboratorio2_Achig\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Properties\\launchSettings.json",
               "RelativeToolTip": "Laboratorio2_Achig\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-15T12:38:00.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-15T12:38:00.042Z"
             }
           ]
         }

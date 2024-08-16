@@ -9,55 +9,59 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Laboratorio2
 build_property.RootNamespace = Laboratorio2
-build_property.ProjectDir = C:\Users\isaiasb\Downloads\LabTestSoftware-main\LabTestSoftware-main\Laboratorio2\Laboratorio2_Achig\
+build_property.ProjectDir = C:\Users\isaiasb\Desktop\Espe-Pruebas\LabPruebas\Laboratorio2\Laboratorio2_Achig\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\isaiasb\Downloads\LabTestSoftware-main\LabTestSoftware-main\Laboratorio2\Laboratorio2_Achig
+build_property.MSBuildProjectDirectory = C:\Users\isaiasb\Desktop\Espe-Pruebas\LabPruebas\Laboratorio2\Laboratorio2_Achig
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/isaiasb/Downloads/LabTestSoftware-main/LabTestSoftware-main/Laboratorio2/Laboratorio2_Achig/Views/Cliente/Create.cshtml]
+[C:/Users/isaiasb/Desktop/Espe-Pruebas/LabPruebas/Laboratorio2/Laboratorio2_Achig/Views/Cliente/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/isaiasb/Downloads/LabTestSoftware-main/LabTestSoftware-main/Laboratorio2/Laboratorio2_Achig/Views/Cliente/Delete.cshtml]
+[C:/Users/isaiasb/Desktop/Espe-Pruebas/LabPruebas/Laboratorio2/Laboratorio2_Achig/Views/Cliente/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/isaiasb/Downloads/LabTestSoftware-main/LabTestSoftware-main/Laboratorio2/Laboratorio2_Achig/Views/Cliente/Edit.cshtml]
+[C:/Users/isaiasb/Desktop/Espe-Pruebas/LabPruebas/Laboratorio2/Laboratorio2_Achig/Views/Cliente/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/isaiasb/Downloads/LabTestSoftware-main/LabTestSoftware-main/Laboratorio2/Laboratorio2_Achig/Views/Cliente/Index.cshtml]
+[C:/Users/isaiasb/Desktop/Espe-Pruebas/LabPruebas/Laboratorio2/Laboratorio2_Achig/Views/Cliente/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/isaiasb/Downloads/LabTestSoftware-main/LabTestSoftware-main/Laboratorio2/Laboratorio2_Achig/Views/Home/Index.cshtml]
+[C:/Users/isaiasb/Desktop/Espe-Pruebas/LabPruebas/Laboratorio2/Laboratorio2_Achig/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/isaiasb/Downloads/LabTestSoftware-main/LabTestSoftware-main/Laboratorio2/Laboratorio2_Achig/Views/Home/Privacy.cshtml]
+[C:/Users/isaiasb/Desktop/Espe-Pruebas/LabPruebas/Laboratorio2/Laboratorio2_Achig/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/isaiasb/Downloads/LabTestSoftware-main/LabTestSoftware-main/Laboratorio2/Laboratorio2_Achig/Views/Shared/Error.cshtml]
+[C:/Users/isaiasb/Desktop/Espe-Pruebas/LabPruebas/Laboratorio2/Laboratorio2_Achig/Views/Provincia/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmluY2lhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/isaiasb/Desktop/Espe-Pruebas/LabPruebas/Laboratorio2/Laboratorio2_Achig/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/isaiasb/Downloads/LabTestSoftware-main/LabTestSoftware-main/Laboratorio2/Laboratorio2_Achig/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/isaiasb/Desktop/Espe-Pruebas/LabPruebas/Laboratorio2/Laboratorio2_Achig/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/isaiasb/Downloads/LabTestSoftware-main/LabTestSoftware-main/Laboratorio2/Laboratorio2_Achig/Views/_ViewImports.cshtml]
+[C:/Users/isaiasb/Desktop/Espe-Pruebas/LabPruebas/Laboratorio2/Laboratorio2_Achig/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/isaiasb/Downloads/LabTestSoftware-main/LabTestSoftware-main/Laboratorio2/Laboratorio2_Achig/Views/_ViewStart.cshtml]
+[C:/Users/isaiasb/Desktop/Espe-Pruebas/LabPruebas/Laboratorio2/Laboratorio2_Achig/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/isaiasb/Downloads/LabTestSoftware-main/LabTestSoftware-main/Laboratorio2/Laboratorio2_Achig/Views/Shared/_Layout.cshtml]
+[C:/Users/isaiasb/Desktop/Espe-Pruebas/LabPruebas/Laboratorio2/Laboratorio2_Achig/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-c22i2bjnyi

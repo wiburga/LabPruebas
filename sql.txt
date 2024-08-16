@@ -1,0 +1,181 @@
+-- Inserción de dos cédulas por provincia en la tabla Cliente
+
+-- Azuay
+INSERT INTO Cliente (Cedula, Apellidos, Nombres, FechaNacimiento, Mail, Telefono, Direccion, Estado, Saldo)
+VALUES
+('0101234567', 'Pérez', 'Juan', '1980-01-01 00:00:00', 'juan.perez@example.com', '0991234567', 'Av. 10 de Agosto', TRUE, 100.00),
+('0107654321', 'Gómez', 'Ana', '1990-05-15 00:00:00', 'ana.gomez@example.com', '0997654321', 'Av. 6 de Diciembre', TRUE, 150.00);
+
+-- Bolívar
+INSERT INTO Cliente (Cedula, Apellidos, Nombres, FechaNacimiento, Mail, Telefono, Direccion, Estado, Saldo)
+VALUES
+('0201234567', 'Morales', 'Carlos', '1985-03-20 00:00:00', 'carlos.morales@example.com', '0981234567', 'Calle Bolívar', TRUE, 200.00),
+('0207654321', 'Castro', 'Maria', '1992-07-25 00:00:00', 'maria.castro@example.com', '0987654321', 'Calle Sucre', TRUE, 250.00);
+
+-- Cañar
+INSERT INTO Cliente (Cedula, Apellidos, Nombres, FechaNacimiento, Mail, Telefono, Direccion, Estado, Saldo)
+VALUES
+('0301234567', 'Salazar', 'Luis', '1988-09-10 00:00:00', 'luis.salazar@example.com', '0971234567', 'Calle 9 de Octubre', TRUE, 300.00),
+('0307654321', 'Vera', 'Sofia', '1995-11-30 00:00:00', 'sofia.vera@example.com', '0977654321', 'Calle Azuay', TRUE, 350.00);
+
+-- Carchi
+INSERT INTO Cliente (Cedula, Apellidos, Nombres, FechaNacimiento, Mail, Telefono, Direccion, Estado, Saldo)
+VALUES
+('0401234567', 'Rivas', 'Jorge', '1982-06-05 00:00:00', 'jorge.rivas@example.com', '0961234567', 'Av. Carchi', TRUE, 400.00),
+('0407654321', 'Mendoza', 'Laura', '1993-08-18 00:00:00', 'laura.mendoza@example.com', '0967654321', 'Av. Pedro Vicente Maldonado', TRUE, 450.00);
+
+-- Chimborazo
+INSERT INTO Cliente (Cedula, Apellidos, Nombres, FechaNacimiento, Mail, Telefono, Direccion, Estado, Saldo)
+VALUES
+('0501234567', 'Pachacama', 'Roberto', '1987-04-12 00:00:00', 'roberto.pachacama@example.com', '0951234567', 'Calle Sucre', TRUE, 500.00),
+('0507654321', 'Molina', 'Natalia', '1994-12-22 00:00:00', 'natalia.molina@example.com', '0957654321', 'Calle Bolívar', TRUE, 550.00);
+
+-- Cotopaxi
+INSERT INTO Cliente (Cedula, Apellidos, Nombres, FechaNacimiento, Mail, Telefono, Direccion, Estado, Saldo)
+VALUES
+('0601234567', 'Martínez', 'Esteban', '1984-02-14 00:00:00', 'esteban.martinez@example.com', '0941234567', 'Av. Cotopaxi', TRUE, 600.00),
+('0607654321', 'García', 'Patricia', '1991-10-30 00:00:00', 'patricia.garcia@example.com', '0947654321', 'Calle 24 de Mayo', TRUE, 650.00);
+
+-- El Oro
+INSERT INTO Cliente (Cedula, Apellidos, Nombres, FechaNacimiento, Mail, Telefono, Direccion, Estado, Saldo)
+VALUES
+('0701234567', 'Bravo', 'Fernando', '1990-05-05 00:00:00', 'fernando.bravo@example.com', '0931234567', 'Calle 25 de Julio', TRUE, 700.00),
+('0707654321', 'Ruiz', 'Valeria', '1993-07-15 00:00:00', 'valeria.ruiz@example.com', '0937654321', 'Calle Guayaquil', TRUE, 750.00);
+
+-- Esmeraldas
+INSERT INTO Cliente (Cedula, Apellidos, Nombres, FechaNacimiento, Mail, Telefono, Direccion, Estado, Saldo)
+VALUES
+('0801234567', 'Villafuerte', 'Andrés', '1989-03-12 00:00:00', 'andres.villafuerte@example.com', '0921234567', 'Calle Esmeraldas', TRUE, 800.00),
+('0807654321', 'López', 'Gabriela', '1994-09-29 00:00:00', 'gabriela.lopez@example.com', '0927654321', 'Calle 9 de Octubre', TRUE, 850.00);
+
+-- Galápagos
+INSERT INTO Cliente (Cedula, Apellidos, Nombres, FechaNacimiento, Mail, Telefono, Direccion, Estado, Saldo)
+VALUES
+('0901234567', 'Moreno', 'Luis', '1986-11-02 00:00:00', 'luis.moreno@example.com', '0911234567', 'Av. Galápagos', TRUE, 900.00),
+('0907654321', 'González', 'Claudia', '1992-06-10 00:00:00', 'claudia.gonzalez@example.com', '0917654321', 'Calle Santa Cruz', TRUE, 950.00);
+
+-- Guayas
+INSERT INTO Cliente (Cedula, Apellidos, Nombres, FechaNacimiento, Mail, Telefono, Direccion, Estado, Saldo)
+VALUES
+('1001234567', 'Cruz', 'José', '1985-07-07 00:00:00', 'jose.cruz@example.com', '0901234567', 'Av. Guayas', TRUE, 1000.00),
+('1007654321', 'Torres', 'Isabel', '1990-12-15 00:00:00', 'isabel.torres@example.com', '0907654321', 'Calle Eloy Alfaro', TRUE, 1050.00);
+
+-- Imbabura
+INSERT INTO Cliente (Cedula, Apellidos, Nombres, FechaNacimiento, Mail, Telefono, Direccion, Estado, Saldo)
+VALUES
+('1101234567', 'Paredes', 'Juan', '1983-04-22 00:00:00', 'juan.paredes@example.com', '0911234567', 'Calle Imbabura', TRUE, 1100.00),
+('1107654321', 'Morales', 'Ana', '1992-08-30 00:00:00', 'ana.morales@example.com', '0917654321', 'Calle Cuenca', TRUE, 1150.00);
+
+-- Loja
+INSERT INTO Cliente (Cedula, Apellidos, Nombres, FechaNacimiento, Mail, Telefono, Direccion, Estado, Saldo)
+VALUES
+('1201234567', 'Pérez', 'Mario', '1988-05-16 00:00:00', 'mario.perez@example.com', '0901234567', 'Av. Loja', TRUE, 1200.00),
+('1207654321', 'Pantoja', 'Claudia', '1995-09-05 00:00:00', 'claudia.pantoja@example.com', '0907654321', 'Calle Loja', TRUE, 1250.00);
+
+-- Los Ríos
+INSERT INTO Cliente (Cedula, Apellidos, Nombres, FechaNacimiento, Mail, Telefono, Direccion, Estado, Saldo)
+VALUES
+('1301234567', 'Figueroa', 'Carlos', '1984-10-25 00:00:00', 'carlos.figueroa@example.com', '0891234567', 'Calle Los Ríos', TRUE, 1300.00),
+('1307654321', 'Álvarez', 'María', '1991-12-20 00:00:00', 'maria.alvarez@example.com', '0897654321', 'Av. Quevedo', TRUE, 1350.00);
+
+-- Manabí
+INSERT INTO Cliente (Cedula, Apellidos, Nombres, FechaNacimiento, Mail, Telefono, Direccion, Estado, Saldo)
+VALUES
+('1401234567', 'Rodríguez', 'Luis', '1982-03-18 00:00:00', 'luis.rodriguez@example.com', '0881234567', 'Calle Manabí', TRUE, 1400.00),
+('1407654321', 'García', 'Jessica', '1990-11-30 00:00:00', 'jessica.garcia@example.com', '0887654321', 'Av. Portoviejo', TRUE, 1450.00);
+
+-- Morona Santiago
+INSERT INTO Cliente (Cedula, Apellidos, Nombres, FechaNacimiento, Mail, Telefono, Direccion, Estado, Saldo)
+VALUES
+('1501234567', 'Espinosa', 'Antonio', '1987-07-05 00:00:00', 'antonio.espinosa@example.com', '0871234567', 'Calle Morona', TRUE, 1500.00),
+('1507654321', 'Cruz', 'Rosa', '1992-09-18 00:00:00', 'rosa.cruz@example.com', '0877654321', 'Calle Macas', TRUE, 1550.00);
+
+-- Napo
+INSERT INTO Cliente (Cedula, Apellidos, Nombres, FechaNacimiento, Mail, Telefono, Direccion, Estado, Saldo)
+VALUES
+('1601234567', 'Hernández', 'Carlos', '1985-06-20 00:00:00', 'carlos.hernandez@example.com', '0861234567', 'Av. Napo', TRUE, 1600.00),
+('1607654321', 'Gómez', 'Luisa', '1993-10-12 00:00:00', 'luisa.gomez@example.com', '0867654321', 'Calle Tena', TRUE, 1650.00);
+
+-- Orellana
+INSERT INTO Cliente (Cedula, Apellidos, Nombres, FechaNacimiento, Mail, Telefono, Direccion, Estado, Saldo)
+VALUES
+('1701234567', 'Aguirre', 'Eduardo', '1986-11-25 00:00:00', 'eduardo.aguirre@example.com', '0851234567', 'Av. Orellana', TRUE, 1700.00),
+('1707654321', 'Pérez', 'Natalia', '1991-08-14 00:00:00', 'natalia.perez@example.com', '0857654321', 'Calle Francisco de Orellana', TRUE, 1750.00);
+
+-- Pastaza
+INSERT INTO Cliente (Cedula, Apellidos, Nombres, FechaNacimiento, Mail, Telefono, Direccion, Estado, Saldo)
+VALUES
+('1801234567', 'Rivadeneira', 'Jorge', '1983-09-30 00:00:00', 'jorge.rivadeneira@example.com', '0841234567', 'Av. Pastaza', TRUE, 1800.00),
+('1807654321', 'Jaramillo', 'María', '1990-12-15 00:00:00', 'maria.jaramillo@example.com', '0847654321', 'Calle Puyo', TRUE, 1850.00);
+
+-- Pichincha
+INSERT INTO Cliente (Cedula, Apellidos, Nombres, FechaNacimiento, Mail, Telefono, Direccion, Estado, Saldo)
+VALUES
+('1901234567', 'Bravo', 'Fernando', '1988-03-15 00:00:00', 'fernando.bravo@example.com', '0831234567', 'Calle Pichincha', TRUE, 1900.00),
+('1907654321', 'Salazar', 'Claudia', '1994-06-30 00:00:00', 'claudia.salazar@example.com', '0837654321', 'Av. Quito', TRUE, 1950.00);
+
+-- Santa Elena
+INSERT INTO Cliente (Cedula, Apellidos, Nombres, FechaNacimiento, Mail, Telefono, Direccion, Estado, Saldo)
+VALUES
+('2001234567', 'Mendoza', 'Daniel', '1981-04-01 00:00:00', 'daniel.mendoza@example.com', '0821234567', 'Calle Santa Elena', TRUE, 2000.00),
+('2007654321', 'Reyes', 'Gabriela', '1993-11-11 00:00:00', 'gabriela.reyes@example.com', '0827654321', 'Calle La Libertad', TRUE, 2050.00);
+
+-- Santo Domingo de los Tsáchilas
+INSERT INTO Cliente (Cedula, Apellidos, Nombres, FechaNacimiento, Mail, Telefono, Direccion, Estado, Saldo)
+VALUES
+('2101234567', 'Sánchez', 'José', '1986-08-20 00:00:00', 'jose.sanchez@example.com', '0811234567', 'Av. Santo Domingo', TRUE, 2100.00),
+('2107654321', 'Martínez', 'Ana', '1994-01-12 00:00:00', 'ana.martinez@example.com', '0817654321', 'Calle La Concordia', TRUE, 2150.00);
+
+-- Sucumbíos
+INSERT INTO Cliente (Cedula, Apellidos, Nombres, FechaNacimiento, Mail, Telefono, Direccion, Estado, Saldo)
+VALUES
+('2301234567', 'Puma', 'Luis', '1987-07-22 00:00:00', 'luis.puma@example.com', '0801234567', 'Av. Sucumbíos', TRUE, 2200.00),
+('2307654321', 'García', 'Sofia', '1991-12-01 00:00:00', 'sofia.garcia@example.com', '0807654321', 'Calle San Gabriel', TRUE, 2250.00);
+
+-- Tungurahua
+INSERT INTO Cliente (Cedula, Apellidos, Nombres, FechaNacimiento, Mail, Telefono, Direccion, Estado, Saldo)
+VALUES
+('2401234567', 'Chávez', 'Ricardo', '1983-06-10 00:00:00', 'ricardo.chavez@example.com', '0791234567', 'Calle Tungurahua', TRUE, 2300.00),
+('2407654321', 'Vega', 'Carla', '1992-11-05 00:00:00', 'carla.vega@example.com', '0797654321', 'Av. Baños', TRUE, 2350.00);
+
+-- Zamora-Chinchipe
+INSERT INTO Cliente (Cedula, Apellidos, Nombres, FechaNacimiento, Mail, Telefono, Direccion, Estado, Saldo)
+VALUES
+('2501234567', 'Torres', 'Fernando', '1980-12-15 00:00:00', 'fernando.torres@example.com', '0781234567', 'Calle Zamora', TRUE, 2400.00),
+('2507654321', 'Ríos', 'María', '1995-07-22 00:00:00', 'maria.rios@example.com', '0787654321', 'Calle Chinchipe', TRUE, 2450.00);
+
+
+
+INSERT INTO Provincia (Nombre, Codigo) VALUES
+('Azuay', '01'),
+('Bolívar', '02'),
+('Cañar', '03'),
+('Carchi', '04'),
+('Chimborazo', '05'),
+('Cotopaxi', '06'),
+('El Oro', '07'),
+('Esmeraldas', '08'),
+('Galápagos', '09'),
+('Guayas', '10'),
+('Imbabura', '11'),
+('Loja', '12'),
+('Los Ríos', '13'),
+('Manabí', '14'),
+('Morona Santiago', '15'),
+('Napo', '16'),
+('Orellana', '17'),
+('Pastaza', '18'),
+('Pichincha', '19'),
+('Santa Elena', '20'),
+('Santa Isabel', '21'),
+('Santo Domingo de los Tsáchilas', '22'),
+('Sucumbíos', '23'),
+('Tungurahua', '24'),
+('Zamora-Chinchipe', '25');
+CREATE TABLE Provincia (
+    Id SERIAL PRIMARY KEY,
+    Nombre VARCHAR(100) NOT NULL,
+    Codigo VARCHAR(2) NOT NULL
+);
+
+

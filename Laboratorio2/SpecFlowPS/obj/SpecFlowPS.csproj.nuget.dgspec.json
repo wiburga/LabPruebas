@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\SpecFlowPS\\SpecFlowPS.csproj": {}
+    "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\SpecFlowPS\\SpecFlowPS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\Laboratorio2_Achig\\Laboratorio2.csproj": {
+    "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Laboratorio2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\Laboratorio2_Achig\\Laboratorio2.csproj",
+        "projectUniqueName": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Laboratorio2.csproj",
         "projectName": "Laboratorio2",
-        "projectPath": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\Laboratorio2_Achig\\Laboratorio2.csproj",
+        "projectPath": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Laboratorio2.csproj",
         "packagesPath": "C:\\Users\\isaiasb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\Laboratorio2_Achig\\obj\\",
+        "outputPath": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\isaiasb\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,6 +46,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.17, )"
+            },
             "Npgsql": {
               "target": "Package",
               "version": "[8.0.3, )"
@@ -94,14 +98,14 @@
         }
       }
     },
-    "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\SpecFlowPS\\SpecFlowPS.csproj": {
+    "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\SpecFlowPS\\SpecFlowPS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\SpecFlowPS\\SpecFlowPS.csproj",
+        "projectUniqueName": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\SpecFlowPS\\SpecFlowPS.csproj",
         "projectName": "SpecFlowPS",
-        "projectPath": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\SpecFlowPS\\SpecFlowPS.csproj",
+        "projectPath": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\SpecFlowPS\\SpecFlowPS.csproj",
         "packagesPath": "C:\\Users\\isaiasb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\SpecFlowPS\\obj\\",
+        "outputPath": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\SpecFlowPS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\isaiasb\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -119,8 +123,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\Laboratorio2_Achig\\Laboratorio2.csproj": {
-                "projectPath": "C:\\Users\\isaiasb\\Downloads\\LabTestSoftware-main\\LabTestSoftware-main\\Laboratorio2\\Laboratorio2_Achig\\Laboratorio2.csproj"
+              "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Laboratorio2.csproj": {
+                "projectPath": "C:\\Users\\isaiasb\\Desktop\\Espe-Pruebas\\LabPruebas\\Laboratorio2\\Laboratorio2_Achig\\Laboratorio2.csproj"
               }
             }
           }
