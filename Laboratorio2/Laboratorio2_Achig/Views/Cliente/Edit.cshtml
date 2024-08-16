@@ -1,0 +1,76 @@
+﻿@model Laboratorio2.Models.ClienteSql
+
+@{
+    ViewData["Title"] = "Update";
+}
+
+<h1>Edit</h1>
+
+<form asp-action="Edit" method="post">
+    @Html.AntiForgeryToken()
+    <input type="hidden" asp-for="Codigo" />
+
+    <div class="form-group">
+        <label for="cedula">Cédula</label>
+        <input type="text" name="Cedula" class="form-control" id="cedula" value="@Model.Cedula" placeholder="Cédula" maxlength="10">
+    </div>
+
+    <div class="form-group">
+        <label for="apellidos">Apellidos</label>
+        <input type="text" name="Apellidos" class="form-control" id="apellidos" value="@Model.Apellidos" placeholder="Apellidos" maxlength="50">
+    </div>
+
+    <div class="form-group">
+        <label for="nombres">Nombres</label>
+        <input type="text" name="Nombres" class="form-control" id="nombres" value="@Model.Nombres" placeholder="Nombres" maxlength="50">
+    </div>
+
+    <div class="form-group">
+        <label for="fechaNacimiento">Fecha de Nacimiento:</label>
+        <input name="FechaNacimiento" type="date" class="form-control" id="fechaNacimiento" value="@Model.FechaNacimiento.ToString("yyyy-MM-dd")" />
+    </div>
+
+    <div class="form-group">
+        <label for="mail">Mail</label>
+        <input type="email" name="Mail" class="form-control" id="mail" value="@Model.Mail" placeholder="Mail">
+    </div>
+
+    <div class="form-group">
+        <label for="telefono">Teléfono</label>
+        <input type="text" name="Telefono" class="form-control" id="telefono" value="@Model.Telefono" placeholder="Teléfono" maxlength="10">
+    </div>
+
+    <div class="form-group">
+        <label for="direccion">Dirección</label>
+        <input type="text" name="Direccion" class="form-control" id="direccion" value="@Model.Direccion" placeholder="Dirección" maxlength="200">
+    </div>
+
+    <div class="form-check">
+        <input asp-for="Estado" id="estado" type="checkbox" class="form-check-input" checked="@Model.Estado">
+        <label class="form-check-label" asp-for="Estado">Estado</label>
+    </div>
+
+    <div class="form-group">
+        <label for="saldo">Saldo</label>
+        <input type="number" name="Saldo" class="form-control" id="saldo" value="@Model.Saldo" placeholder="Saldo" step="0.01" min="0">
+    </div>
+
+    <div class="card-footer">
+        <button type="submit" class="btn btn-success btn-sm">
+            <i class="fas fa-save"></i> Guardar
+        </button>
+    </div>
+</form>
+
+<div>
+    <a asp-action="Index" class="btn btn-secondary"> << Regresar</a>
+</div>
+
+<script>
+    document.getElementById('saldo').addEventListener('input', function(e) {
+        if (this.value < 0) {
+            alert('El saldo no puede ser negativo');
+            this.value = 0;
+        }
+    });
+</script>

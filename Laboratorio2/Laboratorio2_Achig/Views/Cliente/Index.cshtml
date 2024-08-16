@@ -1,0 +1,81 @@
+﻿@model IEnumerable<Laboratorio2.Models.ClienteSql>
+
+@{
+    ViewData["Title"] = "Clientes";
+}
+
+<div class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1 class="m-0">Lista de Clientes</h1>
+            </div><!-- /.col -->
+            <div class="col-sm-6">
+                <ol class="breadcrumb float-sm-right">
+                    <li class="breadcrumb-item"><a href="#">Home</a></li>
+                    <li class="breadcrumb-item active">Clientes</li>
+                </ol>
+            </div><!-- /.col -->
+        </div><!-- /.row -->
+    </div><!-- /.container-fluid -->
+</div>
+
+<section class="content">
+    <div class="container-fluid">
+        <div class="card card-secondary">
+            <div class="card-header">
+                <h3 class="card-title">Clientes</h3>
+                <div class="card-tools">
+                    <button type="button" class="btn btn-tool" data-card-widget="collapse">
+                        <i class="fas fa-minus"></i>
+                    </button>
+                </div>
+            </div>
+            <div class="card-body table-responsive p-0" style="height: 300px;">
+                <table class="table table-head-fixed table-hover text-nowrap">
+                    <thead>
+                        <tr>
+                            <th>@Html.DisplayNameFor(model => model.First().Codigo)</th>
+                            <th>@Html.DisplayNameFor(model => model.First().Cedula)</th>
+                            <th>@Html.DisplayNameFor(model => model.First().Apellidos)</th>
+                            <th>@Html.DisplayNameFor(model => model.First().Nombres)</th>
+                            <th>@Html.DisplayNameFor(model => model.First().FechaNacimiento)</th>
+                            <th>@Html.DisplayNameFor(model => model.First().Mail)</th>
+                            <th>@Html.DisplayNameFor(model => model.First().Telefono)</th>
+                            <th>@Html.DisplayNameFor(model => model.First().Direccion)</th>
+                            <th>@Html.DisplayNameFor(model => model.First().Estado)</th>
+                            <th>@Html.DisplayNameFor(model => model.First().Saldo)</th>
+                            <th>Acciones</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@Html.DisplayFor(modelItem => item.Codigo)</td>
+                                <td>@Html.DisplayFor(modelItem => item.Cedula)</td>
+                                <td>@Html.DisplayFor(modelItem => item.Apellidos)</td>
+                                <td>@Html.DisplayFor(modelItem => item.Nombres)</td>
+                                <td>@Html.DisplayFor(modelItem => item.FechaNacimiento)</td>
+                                <td>@Html.DisplayFor(modelItem => item.Mail)</td>
+                                <td>@Html.DisplayFor(modelItem => item.Telefono)</td>
+                                <td>@Html.DisplayFor(modelItem => item.Direccion)</td>
+                                <td>@Html.DisplayFor(modelItem => item.Estado)</td>
+                                <td>@Html.DisplayFor(modelItem => item.Saldo)</td>
+                                <td>
+                                    <a class="btn btn-info btn-sm" asp-action="Edit" asp-route-id="@item.Codigo">Editar</a> |
+                                    <a class="btn btn-danger btn-sm" href="@Url.Action("Delete", "Cliente", new { id = item.Codigo })">Eliminar</a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+            <p class="text-center">
+                <a asp-action="Create" class="btn btn-dark btn-sm">
+                    <i class="fas fa-users"></i> Crear Cliente
+                </a>
+            </p>
+        </div>
+    </div>
+</section>

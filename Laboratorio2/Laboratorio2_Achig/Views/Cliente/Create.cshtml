@@ -1,0 +1,88 @@
+﻿@model Laboratorio2.Models.ClienteSql
+
+@{
+    ViewData["Title"] = "Crear";
+}
+
+<div class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1 class="m-0">Crear Cliente</h1>
+            </div><!-- /.col -->
+            <div class="col-sm-6">
+                <ol class="breadcrumb float-sm-right">
+                    <li class="breadcrumb-item"><a href="#">Home</a></li>
+                    <li class="breadcrumb-item active">Crear Cliente</li>
+                </ol>
+            </div><!-- /.col -->
+        </div><!-- /.row -->
+    </div><!-- /.container-fluid -->
+</div>
+
+<form asp-action="Create">
+    <section class="content">
+        <div class="container-fluid">
+            <div class="card card-secondary">
+                <div class="card-header">
+                    <h3 class="card-title">Agregar Cliente</h3>
+                    <div class="card-tools">
+                        <button type="button" class="btn btn-tool" data-card-widget="collapse">
+                            <i class="fas fa-minus"></i>
+                        </button>
+                    </div>
+                </div>
+
+                <div class="card-body">
+                    <div class="form-group">
+                        <label for="cedula">Cédula</label>
+                        <input asp-for="Cedula" class="form-control" id="cedula" placeholder="Cédula" maxlength="10">
+                        <span asp-validation-for="Cedula" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label for="apellidos">Apellidos</label>
+                        <input asp-for="Apellidos" class="form-control" id="apellidos" placeholder="Apellidos" maxlength="50">
+                        <span asp-validation-for="Apellidos" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label for="nombres">Nombres</label>
+                        <input asp-for="Nombres" class="form-control" id="nombres" placeholder="Nombres" maxlength="50">
+                        <span asp-validation-for="Nombres" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label for="fechaNacimiento">Fecha de Nacimiento</label>
+                        <input asp-for="FechaNacimiento" type="date" class="form-control" id="fechaNacimiento" />
+                        <span asp-validation-for="FechaNacimiento" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label for="mail">Mail</label>
+                        <input asp-for="Mail" type="email" class="form-control" id="mail" placeholder="Mail">
+                        <span asp-validation-for="Mail" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label for="telefono">Teléfono</label>
+                        <input asp-for="Telefono" class="form-control" id="telefono" placeholder="Teléfono" maxlength="10">
+                        <span asp-validation-for="Telefono" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label for="direccion">Dirección</label>
+                        <input asp-for="Direccion" class="form-control" id="direccion" placeholder="Dirección" maxlength="200">
+                        <span asp-validation-for="Direccion" class="text-danger"></span>
+                    </div>
+                    <div class="form-check">
+                        <input asp-for="Estado" id="estado" type="checkbox" class="form-check-input">
+                        <label class="form-check-label" asp-for="Estado">Estado</label>
+                    </div>
+                </div>
+                <div class="card-footer">
+                    <button type="submit" class="btn btn-success btn-sm">
+                        <i class="fas fa-save"></i> Guardar
+                    </button>
+                </div>
+            </div>
+        </div>
+        <div>
+            <a asp-action="Index"> << Regresar</a>
+        </div>
+    </section>
+</form>
